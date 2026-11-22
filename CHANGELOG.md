@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- fix npm `repository.url` metadata (JordanNewell -> dotcurt) on next publish
+
 ## [1.0.0] - initial public release (unreleased)
 
 ### Added
