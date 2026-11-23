@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   like `*.jsonl` never matched, backslash globs failed on Windows, and
   `**` only descended one directory level. Rewritten with a
   component-split walk and a character-based glob matcher.
+- fix npm `repository.url` metadata (JordanNewell -> dotcurt) on next publish
 
 ## [1.0.0] - initial public release (unreleased)
 
