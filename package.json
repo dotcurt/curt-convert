@@ -1,6 +1,6 @@
 {
 	"name": "curt-convert",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "Convert Claude Code session transcripts (JSONL) to .curt conversation files",
 	"license": "MIT",
 	"type": "module",
@@ -38,8 +38,8 @@
 		"url": "git+https://github.com/dotcurt/curt-convert.git",
 		"type": "git"
 	},
-	"homepage": "https://github.com/JordanNewell/curt-convert#readme",
+	"homepage": "https://github.com/dotcurt/curt-convert#readme",
 	"bugs": {
-		"url": "https://github.com/JordanNewell/curt-convert/issues"
+		"url": "https://github.com/dotcurt/curt-convert/issues"
 	}
 }
